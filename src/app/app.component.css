@@ -1,0 +1,32 @@
+   p {
+    font-family: Arial;
+    background-color: #eee;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    cursor: hand;
+  }
+  button:hover {
+    background-color: #cfd8dc;
+  }
+
+   a {
+    padding: 5px 10px;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-top: 10px;
+    display: inline-block;
+    background-color: #eee;
+    border-radius: 4px;
+  }
+  a:visited, a:link {
+    color: #407D8B;
+  }
+   a:hover {
+    color: #039be5;
+    background-color: #CFD8DC;
+  }
+   a.active {
+    color: #039be5;
+  }
